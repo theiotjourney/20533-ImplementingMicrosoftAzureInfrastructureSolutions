@@ -2,6 +2,8 @@ https://skillpipe.com
 
 https://manage.windowsazure.com
 
+http://www.microsoft.com/Language/en-US/Search.aspx?sString=storage%20account&langID=pl-pl
+
 dodanie konta Azure
 PS> Add-AzureAccount
 
